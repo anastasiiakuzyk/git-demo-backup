@@ -7,3 +7,8 @@ Hello, can you hear me?
 I'm in California dreaming about who we used to be
 When we were younger and free
 I've forgotten how it felt before the world fell at our feet
+<<<<<<< HEAD
+
+text that i'll want to get rid off
+=======
+>>>>>>> 75a3a4b444a736c983052f7d1aaaeb35825ad24c
